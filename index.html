@@ -26,7 +26,7 @@
       </div>
     </div>
 	 <div style="display: flex; align-items: center; max-width: 100%; margin-bottom: 20px;">
-      <video id="myVideo" style="max-width: 50%;">
+      <video id="myVideo" style="max-width: 50%;" controls>
         <source src="videos/Yo.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
@@ -34,15 +34,5 @@
         <p style="font-size: 20px;">Yo!.</p>
       </div>
     </div>
-    <script>
-    const video = document.getElementById("myVideo");
-    video.addEventListener("click", function() {
-      if (video.paused) {
-        video.play();
-      } else {
-        video.pause();
-      }
-    });
-    </script>
   </body>
 </html>
