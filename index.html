@@ -26,10 +26,23 @@
       </div>
     </div>
 	 <div style="display: flex; align-items: center; max-width: 100%; margin-bottom: 20px;">
-      <img src="videos/Yo.mp4" style="max-width: 50%;">
+      <video id="myVideo" poster="firstFrame.jpg" style="max-width: 50%;">
+        <source src="videos/Yo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
       <div style="text-align: center; width: 50%;">
         <p style="font-size: 20px;">Yo!.</p>
       </div>
     </div>
+    <script>
+    const video = document.getElementById("myVideo");
+    video.addEventListener("click", function() {
+      if (video.paused) {
+        video.play();
+      } else {
+        video.pause();
+      }
+    });
+    </script>
   </body>
 </html>
