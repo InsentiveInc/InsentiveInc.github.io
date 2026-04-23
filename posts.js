@@ -3,7 +3,6 @@
 // New posts go at the BOTTOM of this array (they render in order).
 
 const posts = [
-  { type: "image", src: "images/IMG_0434.jpeg", caption: "I'm more depressed than I've ever been recently but that doesn't mean I'm a pussy and show it" },
   { type: "image", src: "images/Delphy.jpg", caption: "If you think me wanting the 51% is unreasonable, just remember you're dealing with someone who thinks he can be an UFC fighter if he put his mind to it" },
   { type: "image", src: "images/AspenJessie.jpg", caption: "Eyes too pretty to censor" },
   { type: "image", src: "images/AspenShot.jpg", caption: "FUCK VAIL SUPPORT LOCAL" },
@@ -30,10 +29,10 @@ const posts = [
   { type: "image", src: "images/IMG_1433.jpeg", caption: "Thought I brought Taylor Gang to Amsterdam but forgot that shit is worldwide" },
   { type: "image", src: "images/IMG_1313.jpeg", caption: "Spent like 10 hours on this flight man, told the pilot ain't no flight plans (seat 56G)" },
   { type: "image", src: "images/Strike.jpg", caption: "BLURRED FOR MY PROTECTION", style: "width: 474px; height: 738px; object-fit: cover;" },
-  { type: "image", src: "images/KBBQ.jpg", caption: "Korean bbq in Japan is like Bánh Mì in Thailand" },
+  { type: "image", src: "images/KBBQ.jpg", caption: "Korean bbq in Japan is like BÃ¡nh MÃ¬ in Thailand" },
   { type: "video", src: "videos/IMG_0883.mov", caption: "Jessie and Paula sitting in a tree, K-I-S-S-I-N-G" },
   { type: "image", src: "images/IMG_0699.jpg", caption: "Sunset=Detroit office    Mucci=Tailgate    Nature Fresh=The Tin Roof" },
-  { type: "image", src: "images/ShinOkuboStation.jpg", caption: "ワイノロジーの外にランボルギーニを駐車し続けてもいいよ、私は東京にいるよ。" },
+  { type: "image", src: "images/ShinOkuboStation.jpg", caption: "ã¯ã¤ãã­ã¸ã¼ã®å¤ã«ã©ã³ãã«ã®ã¼ããé§è»ãç¶ãã¦ãããããç§ã¯æ±äº¬ã«ãããã" },
   { type: "image", src: "images/TokyoFit.jpg", caption: "ARTGANGMONEY" },
   { type: "image", src: "images/YNMuseum.jpg", caption: "First yn appreciating Chinese scriptures" },
   { type: "video", src: "videos/IMG_0005.mp4", caption: "I remember my first beer" },
