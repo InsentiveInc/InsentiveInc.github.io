@@ -1,4 +1,4 @@
-// Nico's Site â posts data
+// Nico's Site — posts data
 // Each post: { type: "image" | "video", src: "path/to/file", caption: "...", style?: "extra inline CSS for media element" }
 // New posts go at the BOTTOM of this array (they render in order).
 
@@ -29,10 +29,10 @@ const posts = [
   { type: "image", src: "images/IMG_1433.jpeg", caption: "Thought I brought Taylor Gang to Amsterdam but forgot that shit is worldwide" },
   { type: "image", src: "images/IMG_1313.jpeg", caption: "Spent like 10 hours on this flight man, told the pilot ain't no flight plans (seat 56G)" },
   { type: "image", src: "images/Strike.jpg", caption: "BLURRED FOR MY PROTECTION", style: "width: 474px; height: 738px; object-fit: cover;" },
-  { type: "image", src: "images/KBBQ.jpg", caption: "Korean bbq in Japan is like BÃÂ¡nh MÃÂ¬ in Thailand" },
+  { type: "image", src: "images/KBBQ.jpg", caption: "Korean bbq in Japan is like BÃÂÃÂ¡nh MÃÂÃÂ¬ in Thailand" },
   { type: "video", src: "videos/IMG_0883.mov", caption: "Jessie and Paula sitting in a tree, K-I-S-S-I-N-G" },
   { type: "image", src: "images/IMG_0699.jpg", caption: "Sunset=Detroit office    Mucci=Tailgate    Nature Fresh=The Tin Roof" },
-  { type: "image", src: "images/ShinOkuboStation.jpg", caption: "Ã£ÂÂ¯Ã£ÂÂ¤Ã£ÂÂÃ£ÂÂ­Ã£ÂÂ¸Ã£ÂÂ¼Ã£ÂÂ®Ã¥Â¤ÂÃ£ÂÂ«Ã£ÂÂ©Ã£ÂÂ³Ã£ÂÂÃ£ÂÂ«Ã£ÂÂ®Ã£ÂÂ¼Ã£ÂÂÃ£ÂÂÃ©Â§ÂÃ¨Â»ÂÃ£ÂÂÃ§Â¶ÂÃ£ÂÂÃ£ÂÂ¦Ã£ÂÂÃ£ÂÂÃ£ÂÂÃ£ÂÂÃ£ÂÂÃ§Â§ÂÃ£ÂÂ¯Ã¦ÂÂ±Ã¤ÂºÂ¬Ã£ÂÂ«Ã£ÂÂÃ£ÂÂÃ£ÂÂÃ£ÂÂ" },
+  { type: "image", src: "images/ShinOkuboStation.jpg", caption: "ÃÂ£ÃÂÃÂ¯ÃÂ£ÃÂÃÂ¤ÃÂ£ÃÂÃÂÃÂ£ÃÂÃÂ­ÃÂ£ÃÂÃÂ¸ÃÂ£ÃÂÃÂ¼ÃÂ£ÃÂÃÂ®ÃÂ¥ÃÂ¤ÃÂÃÂ£ÃÂÃÂ«ÃÂ£ÃÂÃÂ©ÃÂ£ÃÂÃÂ³ÃÂ£ÃÂÃÂÃÂ£ÃÂÃÂ«ÃÂ£ÃÂÃÂ®ÃÂ£ÃÂÃÂ¼ÃÂ£ÃÂÃÂÃÂ£ÃÂÃÂÃÂ©ÃÂ§ÃÂÃÂ¨ÃÂ»ÃÂÃÂ£ÃÂÃÂÃÂ§ÃÂ¶ÃÂÃÂ£ÃÂÃÂÃÂ£ÃÂÃÂ¦ÃÂ£ÃÂÃÂÃÂ£ÃÂÃÂÃÂ£ÃÂÃÂÃÂ£ÃÂÃÂÃÂ£ÃÂÃÂÃÂ§ÃÂ§ÃÂÃÂ£ÃÂÃÂ¯ÃÂ¦ÃÂÃÂ±ÃÂ¤ÃÂºÃÂ¬ÃÂ£ÃÂÃÂ«ÃÂ£ÃÂÃÂÃÂ£ÃÂÃÂÃÂ£ÃÂÃÂÃÂ£ÃÂÃÂ" },
   { type: "image", src: "images/TokyoFit.jpg", caption: "ARTGANGMONEY" },
   { type: "image", src: "images/YNMuseum.jpg", caption: "First yn appreciating Chinese scriptures" },
   { type: "video", src: "videos/IMG_0005.mp4", caption: "I remember my first beer" },
@@ -76,5 +76,4 @@ const posts = [
   { type: "image", src: "images/NicoWithBunz.JPG", caption: "Space bunz honey bunz" },
   { type: "video", src: "videos/SocialClubBagWithPJ.MP4", caption: "Small plane big turbulence" },
   { type: "video", src: "videos/Yo.mp4", caption: "Yo!." },
-  { type: "image", src: "images/IMG_2363.jpeg", caption: "I make it look easy" },
 ];
