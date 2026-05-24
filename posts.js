@@ -3,7 +3,7 @@
 // New posts go at the BOTTOM of this array (they render in order).
 
 const posts = [
-  { type: "image", src: "images/IMG_2363.jpg", caption: "I make it look easy" },
+  { type: "image", src: "images/IMG_2363.jpg", caption: "These awards meant more to me than anyone can ever imagine" },
   { type: "image", src: "images/Delphy.jpg", caption: "If you think me wanting the 51% is unreasonable, just remember you're dealing with someone who thinks he can be an UFC fighter if he put his mind to it" },
   { type: "image", src: "images/AspenJessie.jpg", caption: "Eyes too pretty to censor" },
   { type: "image", src: "images/AspenShot.jpg", caption: "FUCK VAIL SUPPORT LOCAL" },
